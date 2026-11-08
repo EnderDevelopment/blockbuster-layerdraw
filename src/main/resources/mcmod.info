@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "bbslayers",
+    "name": "Blockbuster Layered Textures",
+    "description": "Ordered overlay texture layers for Blockbuster actors.",
+    "version": "${version}",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["EnderDevelopment"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": ["blockbuster"]
+  }
+]
